@@ -1,5 +1,5 @@
 # freshmap
-Freshmap lets you start a Teeworlds server for testing your maps at a click of a button. The name is inspired by Trashmap. Freshmap is based on [Trashmap](https://github.com/timakro/trashmap/tree/master)
+Freshmap lets you start a Teeworlds server for testing your maps at a click of a button. Freshmap is based on [Trashmap](https://github.com/timakro/trashmap/tree/master) with few new features like gametype selection .
 
 
 ## Deployment
